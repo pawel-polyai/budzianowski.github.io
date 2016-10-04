@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Grant R. McDermott
+title: Paweł Budzianowski
 locale: en_US
-url: http://grantmcdermott.github.io
+url: http://budzianowski.github.io
 
 
 # Jekyll configuration
@@ -42,14 +42,11 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Grant McDermott
-  avatar: mcdermott400sq.jpg
-  bio: "Economics. Environment. Data science. Postdoctoral scholar at UC Santa Barbara."
-  email: gmcdermott@ucsb.edu
-  disqus-shortname: grantmcdermott-blog
-  twitter: grant_mcdermott
-  facebook: #username
-  google_scholar: EruWDMwAAAAJ
+  name: Pawel Budzianowski
+  avatar: face.jpg
+  bio: “Dialogue Systems, Machine Learning.”
+  email: pfb30@cam.ac.uk
+  disqus-shortname: budzianowski
   google:
     plus: #username
     analytics: UA-76482472-1
@@ -57,9 +54,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: grantmcdermott
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: grant-mcdermott-b8637419
+  github: budzianowski
   xing: #username
   instagram: #username
   lastfm: #username
