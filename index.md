@@ -3,7 +3,6 @@ layout: page #was "home", but I don't need the latest blog feed template on the 
 excerpt: "The personal website of Pawel Budzianowski."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: face.jpg
   credit: "@budzianowski"
 ---
 
