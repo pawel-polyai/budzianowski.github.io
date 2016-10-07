@@ -9,11 +9,11 @@
 - title: Research
   url: /research/
 
-- title: CV
-  url: budzianowski.github.io #/cv/
-
 - title: Blog
   url: /blog/
+
+- title: Polish ML
+  url: plml17.github.io
 
 #- title: Theme Setup
 #  url: /theme-setup/
