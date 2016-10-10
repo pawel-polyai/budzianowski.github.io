@@ -9,6 +9,6 @@ image:
 
 ## Welcome
 
-I am an PhD candidate in [Spoken Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) under supervision of [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436) working on long-term conversational agents. I am passionate about everything that is related to machine learning, artificial intelligence, statistics and mathematics, especially about Bayesian statistics, reinforcement learning, variational inference and copulas.
+I am an PhD candidate in [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) under supervision of [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436) working on long-term conversational agents. I am passionate about everything that is related to machine learning, artificial intelligence, statistics and mathematics, especially about Bayesian statistics, reinforcement learning, variational inference and copulas.
 
 If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk
