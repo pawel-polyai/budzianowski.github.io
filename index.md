@@ -1,7 +1,7 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
 excerpt: "The personal website of Paweł Budzianowski."
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Budzianowski,Paweł, Pawel, Budzianowski Pawel, Pawel Budzianowski, pawelbudzianowski, pawel budzianowski, home page]
 share: false
 image:
   credit: "@budzianowski"
