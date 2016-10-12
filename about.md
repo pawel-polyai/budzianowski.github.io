@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 tags: [Budzianowski,Paweł, Pawel, Budzianowski Pawel, Pawel Budzianowski, pawelbudzianowski, pawel budzianowski, about me]
 modified: 2016-04-09T19:50:01.573882-04:00
 comments: false
 share: false
 ---
-
-## About me
 
 I was born and raised in a small Polish city Drezdenko (check out my video of the beautiful neighbourhood area [Notecka forest](https://youtube.com/watch?v=EXHQY0JRl74). My family originally comes from west part of today's Ukraine and Belarus which before 1945 were Polish regions called Pokucie and Polesie respectively.
 
