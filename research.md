@@ -8,7 +8,7 @@ comments: false
 ---
 
 ## Publications
-1. [Copula Models in Macroeconomic Analysis of Dependence](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), Local, Regional and Global Economy, Krzysztofek A., Przybyłka A. (eds.), 2014
+1. [Copula Models in Macroeconomic Analysis of Dependence](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), "Local, Regional and Global Economy", Krzysztofek A., Przybyłka A. (eds.), 2014
 
 ## Talks
 1. A copula-based multivariate analysis with R, Polish Academic R User Meeting, 2015
