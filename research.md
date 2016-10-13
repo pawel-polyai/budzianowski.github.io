@@ -13,6 +13,10 @@ comments: false
 ## Talks
 1. A copula-based multivariate analysis with R, Polish Academic R User Meeting, 2015
 
+## Website articles
+1. [Artificial Intelligence is Coming](https://matematyka.poznan.pl/artykul/sztuczna-inteligencja-nadchodzi-czyli-krotki-poradnik-jak-zbudowac-inteligentna-maszyne/#easy-footnote-3), Poznan Mathematical Foundation 2016
+2. [Kepler's laws](https://matematyka.poznan.pl/artykul/prawa-keplera/), co-author, Poznan Mathematical Foundation, 2014
+
 ## Dissertations
 1. [Training Restricted Boltzmann Machines Using High-Temperature Expansion](https://github.com/budzianowski/DBN/blob/master/thesis/thesis.pdf), Master's Thesis, Engineering Department, University of Cambridge, first-class honours.
 2. [Applications of copulas in calculating Value-at-Risk](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/Pawe%C5%82_Budzianowski.pdf) (in Polish), Master's Thesis, Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznan, first-class honours.
