@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-I was born and raised in a small Polish city Drezdenko (check out my video of the beautiful neighbourhood area [Notecka forest](https://youtube.com/watch?v=EXHQY0JRl74). My family originally comes from west part of today's Ukraine and Belarus which before 1945 were Polish regions called Pokucie and Polesie respectively.
+I was born and raised in a small Polish city Drezdenko (check out my video of the beautiful neighbourhood area [Notecka forest](https://youtube.com/watch?v=EXHQY0JRl74)). My family originally comes from west part of today's Ukraine and Belarus which before 1945 were Polish regions called Pokucie and Polesie respectively.
 
 For my bachelor studies I attended the Poznań University of Economics and Business where I worked under supervision of [dr. Jacek Wallusch](http://ikbt.org/beta/o-nas/) graduating in economics in 2013. After my first year at PUEB, I took mathematics at Adam Mickiewicz Poznań University where I stayed later on and pursued Master's degree under supervision of [prof. Ryszard Doman](https://semopis.wmi.amu.edu.pl/Matematyka/prof.%20dr%20hab.%20Ryszard%20Doman) graduating with first class honours. My [master thesis](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/Pawe%C5%82_Budzianowski.pdf) (in Polish) concerned modelling conditional dependence of long-term multivariate time series using copulas.
 
