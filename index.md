@@ -13,6 +13,6 @@ I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/res
 
 Over last two years I have worked on Bayesian statistics, variational inference, multivariate time series and copulas.
 
-With [Marta Karaś](https://statsox.github.io/) I created first Polish platform about machine learning [PLML](https://plml17.github.io).
+With [Marta Karaś](https://statsox.github.io/) I have created first Polish platform about machine learning [PLML](https://plml17.github.io).
 
 If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk.
