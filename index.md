@@ -1,7 +1,7 @@
 ---
 layout: page #was "home", but I don't need the latest blog feed template on the homepage
-excerpt: "The personal website of Paweł Budzianowski."
-tags: [Budzianowski,Paweł, Pawel, Budzianowski Pawel, Pawel Budzianowski, pawelbudzianowski, pawel budzianowski, home page]
+excerpt: "The personal website of Pawel Budzianowski."
+tags: [Pawel, Budzianowski Pawel, Pawel Budzianowski, mi.eng.cam.ac.uk/~pfb30/, Budzianowski,Paweł, pawelbudzianowski, pawel budzianowski, home page]
 share: false
 image:
   credit: "@budzianowski"
