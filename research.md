@@ -25,31 +25,10 @@ comments: false
 
 ## Teaching
 1. Demonstrator for Reinforcement Learning, Departament of Engineering, University of Cambridge 2017
-2. Demonstrator for Spoken Dialogue Systems, Departament of Engineering, University of Cambridge 2017
+2. Demonstrator for Statistical Dialogue Systems, Departament of Engineering, University of Cambridge 2017
 3. Introduction to programming language 'R', Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznań, 2014-2015
 
 ## Dissertations
 1. [Training Restricted Boltzmann Machines Using High-Temperature Expansion](https://github.com/budzianowski/DBN/blob/master/thesis/thesis.pdf), Master's Thesis, Engineering Department, University of Cambridge, first-class honours.
 2. [Applications of copulas in calculating Value-at-Risk](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/Pawe%C5%82_Budzianowski.pdf) (in Polish), Master's Thesis, Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznan, first-class honours.
 
-## Academic achievements
-1. Second place in [Data Science Game 2016](http://www.datasciencegame.com/press) - an international data science competition
-2. Winner of IV Polish Independent Championship in Data Analysis in 2014
-3. Winner in the Academic Economic Consensus in 2013 – national macroeconomic forecasting competition
-4. Founder and first president of [The Applied Mathematics and Computer Science Circle](http://mis.wmi.amu.edu.pl/) at Adam Mickiewicz University in Poznan in 2014
-
-## Honours and Awards
-1. Toshiba PhD Research Studentship
-2. EPSRC PhD Research Studentship
-3. Santander Bank and Clare Hall College scholarships
-4. Several Rector’s scholarships for achievements in education
-5. Hawks' Club Award
-
-## Contact
-Department of Engineering
-University of Cambridge
-Trumpington Street
-Cambridge CB2 1PZ
-
-Office BN3-011
-Email pfb30 at cam.ac.uk
