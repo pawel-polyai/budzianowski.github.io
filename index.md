@@ -11,8 +11,8 @@ image:
 
 I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/), supervised by [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436), working on long-term conversational agents. I am passionate about everything that is related to machine learning, artificial intelligence, statistics and mathematics. 
 
-Over last two years I have worked on Bayesian statistics, variational inference, multivariate time series and copulas.
+My primary focus currently is to apply hierarchical reinforcement learning methods and efficient off-policy deep reinforcement learning methods to dialogue policy management.
 
-With [Marta Karaś](https://statsox.github.io/) I have created first Polish platform about machine learning [PLML](https://plml17.github.io).
+Over last four years I have worked on Bayesian statistics, variational inference, multivariate time series and copulas.
 
 If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk.

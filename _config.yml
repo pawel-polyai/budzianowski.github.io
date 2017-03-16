@@ -42,9 +42,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Pawel Budzianowski
+  name: Paweł Budzianowski
   avatar: face.jpg
-  bio: “Machine Learning, Dialogue Systems, Artificial Intelligence”
+  bio: Machine Learning, Dialogue Systems, Artificial Intelligence
   email: pfb30@cam.ac.uk
   disqus-shortname: budzianowski
   google:
