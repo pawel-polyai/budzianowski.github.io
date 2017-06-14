@@ -35,5 +35,3 @@ Cambridge CB2 1PZ
 
 Office BN3-011
 Email pfb30 at cam.ac.uk
-
-The current version of my CV can be found
