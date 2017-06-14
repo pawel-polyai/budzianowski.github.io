@@ -11,7 +11,7 @@ comments: false
 3. "Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning", SIGDIAL 2017
 <br />
 <br />
-<b>Paweł Budzianowski</b>, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina M. Rojas Barahona and Milica Gasic,
+<b>Paweł Budzianowski</b>, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina M. Rojas Barahona and Milica Gasic
 <br />
 <br />
 2. "Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management", SIGDIAL 2017 
@@ -19,11 +19,13 @@ comments: false
 <br />
 Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve Young
 <br />
-1. [Copula Models in Macroeconomic Analysis of Dependence](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), "Local, Regional and Global Economy", 2014
-<br/>
 <br />
+1. ["Copula Models in Macroeconomic Analysis of Dependence"](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), Local, Regional and Global Economy, 2014
+<br/>
+<br/>
 <b>Paweł Budzianowski</b>
-
+<br />
+<br />
 ## Working papers
 1. Bayesian RL, with Chris Tegho 
 2. Policy Management Benchmark, with Pei-Hao Su and Stefan Ultes
