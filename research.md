@@ -13,6 +13,7 @@ comments: false
 <br />
 <b>Paweł Budzianowski</b>, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina M. Rojas Barahona and Milica Gasic,
 <br />
+<br />
 2. "Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management", SIGDIAL 2017 
 <br />
 <br />
