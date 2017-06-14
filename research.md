@@ -26,6 +26,7 @@ Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve You
 <b>Paweł Budzianowski</b>
 <br />
 <br />
+
 ## Working papers
 1. Bayesian RL, with Chris Tegho 
 2. Policy Management Benchmark, with Pei-Hao Su and Stefan Ultes
