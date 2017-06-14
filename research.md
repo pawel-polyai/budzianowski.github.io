@@ -8,7 +8,7 @@ comments: false
 ---
 
 ## Publications
-1.<p> "Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning", SIGDIAL 2017 </p>
+1."Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning", SIGDIAL 2017
 <b>Paweł Budzianowski</b>, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina M. Rojas Barahona and Milica Gasic,
 2. "Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management", Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve Young, SIGDIAL 2017 
 3. [Copula Models in Macroeconomic Analysis of Dependence](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), "Local, Regional and Global Economy", Krzysztofek A., Przybyłka A. (eds.), 2014
