@@ -38,9 +38,7 @@ Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñ
 ## Working papers
 1. Bayesian RL, with Chris Tegho 
 2. Policy Management Benchmark, with Pei-Hao Su and Stefan Ultes
-3. Safe and Efficient RL, with Pei-Hao Su and Gellert Weisz
-
-## Collaborated Conference Paper 
+3. Safe and Efficient RL, with Pei-Hao Su and Gellert Weisz 
 
 ## Talks
 1. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016 
