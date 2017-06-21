@@ -8,7 +8,7 @@ comments: false
 ---
 
 ## Publications
-3. "Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning", SIGDIAL 2017
+3. ["Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning"](https://arxiv.org/abs/1706.06210), SIGDIAL 2017
 <br />
 <br />
 <b>Paweł Budzianowski</b>, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina M. Rojas Barahona and Milica Gasic
@@ -24,6 +24,14 @@ Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve You
 <br/>
 <br/>
 <b>Paweł Budzianowski</b>
+<br />
+<br />
+
+## Collaborated Papers
+1. "PyDial: A Multi-domain Statistical Dialogue System Toolkit", ACL 2017 
+<br />
+<br />
+Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñigo Casanueva, <b>Paweł Budzianowski</b>, Nikola Mrkšić, Tsung-Hsien Wen, Milica Gasic and Steve Young
 <br />
 <br />
 
