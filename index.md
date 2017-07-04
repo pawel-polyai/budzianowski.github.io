@@ -7,7 +7,6 @@ image:
   credit: "@budzianowski"
 ---
 
-## Welcome!
 
 I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/), supervised by [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436), working on long-term conversational agents. I am passionate about everything that is related to mathematics, statistics, machine learning and artificial intelligence.
 
