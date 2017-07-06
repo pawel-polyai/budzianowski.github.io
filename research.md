@@ -41,9 +41,10 @@ Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñ
 3. Safe and Efficient RL, with Pei-Hao Su and Gellert Weisz 
 
 ## Talks
-1. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016 
-2. [Bayesian Optimization](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/bayOptMLG.pdf), Machine Learning Reading Group, Cambridge University, with [Brian Trippe](http://www.briantrippe.com/), 2016
-3. A copula-based multivariate analysis with R, Polish Academic R User Meeting, 2015
+1. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
+2. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016 
+3. [Bayesian Optimization](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/bayOptMLG.pdf), Machine Learning Reading Group, Cambridge University, with [Brian Trippe](http://www.briantrippe.com/), 2016
+4. A copula-based multivariate analysis with R, Polish Academic R User Meeting, Poznań, 2015
 
 ## Website articles
 1. [Artificial Intelligence is Coming](https://matematyka.poznan.pl/artykul/sztuczna-inteligencja-nadchodzi-czyli-krotki-poradnik-jak-zbudowac-inteligentna-maszyne/#easy-footnote-3), Poznan Mathematical Foundation 2016
