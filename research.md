@@ -8,31 +8,31 @@ comments: false
 ---
 
 ## Publications
-5. "Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation", Bayesian Deep Learning Workshop, NIPS 2017
+5. "Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation", Bayesian Deep Learning Workshop, NIPS 2017.
 <br />
 <br />
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 <br />
 <br />
-4. "A Benchmarking Environment for Reinforcement Learning Based Task Oriented Dialogue Management", Deep Reinforcement Learning Symposium, NIPS 2017
+4. "A Benchmarking Environment for Reinforcement Learning Based Task Oriented Dialogue Management", Deep Reinforcement Learning Symposium, NIPS 2017.
 <br />
 <br />
 Inigo Casanueva*, <b>Paweł Budzianowski*</b>, Pei-Hao Su*, Nikola Mrkšić, Tsung-Hsien Wen, Stefan Ultes, Lina Rojas-Barahona, Steve Young and Milica Gasic
 <br />
 <br />
-3. ["Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning"](https://arxiv.org/abs/1706.06210), SIGDIAL 2017
+3. ["Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning"](https://arxiv.org/abs/1706.06210), SIGDIAL 2017.
 <br />
 <br />
 <b>Paweł Budzianowski</b>, Stefan Ultes, Pei-Hao Su, Nikola Mrkšić, Tsung-Hsien Wen, Iñigo Casanueva, Lina M. Rojas Barahona and Milica Gasic
 <br />
 <br />
-2. ["Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management"](https://arxiv.org/abs/1707.00130), SIGDIAL 2017 
+2. ["Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management"](https://arxiv.org/abs/1707.00130), SIGDIAL 2017.
 <br />
 <br />
 Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve Young
 <br />
 <br />
-1. ["Copula Models in Macroeconomic Analysis of Dependence"](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), Local, Regional and Global Economy, 2014
+1. ["Copula Models in Macroeconomic Analysis of Dependence"](http://www.atwydawnictwo.pl/katalog-ksiazek/ekonomiaizarzadzanie/item/115-ekonomia-w-ujeciu-globalnym-regionalnym-i-lokalnym), (in Polish), Local, Regional and Global Economy, 2014.
 <br/>
 <br/>
 <b>Paweł Budzianowski</b>
@@ -48,11 +48,6 @@ Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve You
 Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñigo Casanueva, <b>Paweł Budzianowski</b>, Nikola Mrkšić, Tsung-Hsien Wen, Milica Gasic and Steve Young
 <br />
 <br />
-
-## Working papers
-1. Bayesian RL, with Chris Tegho 
-2. Policy Management Benchmark, with Pei-Hao Su and Stefan Ultes
-3. Safe and Efficient RL, with Pei-Hao Su and Gellert Weisz 
 
 ## Talks
 1. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
