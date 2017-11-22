@@ -8,13 +8,13 @@ comments: false
 ---
 
 ## Publications
-5. "Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation", Bayesian Deep Learning Workshop, NIPS 2017.
+5. "Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation", Bayesian Deep Learning Workshop, NIPS 2017
 <br />
 <br />
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 <br />
 <br />
-4. "A Benchmarking Environment for Reinforcement Learning Based Task Oriented Dialogue Management", Deep Reinforcement Learning Symposium, NIPS 2017.
+4. "A Benchmarking Environment for Reinforcement Learning Based Task Oriented Dialogue Management", Deep Reinforcement Learning Symposium, NIPS 2017
 <br />
 <br />
 Inigo Casanueva*, <b>Paweł Budzianowski*</b>, Pei-Hao Su*, Nikola Mrkšić, Tsung-Hsien Wen, Stefan Ultes, Lina Rojas-Barahona, Steve Young and Milica Gasic
