@@ -8,6 +8,18 @@ comments: false
 ---
 
 ## Publications
+5. "Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation", Bayesian Deep Learning Workshop, NIPS 2017.
+<br />
+<br />
+Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
+<br />
+<br />
+4. "A Benchmarking Environment for Reinforcement Learning Based Task Oriented Dialogue Management", Deep Reinforcement Learning Symposium, NIPS 2017.
+<br />
+<br />
+Inigo Casanueva*, <b>Paweł Budzianowski*</b>, Pei-Hao Su*, Nikola Mrkšić, Tsung-Hsien Wen, Stefan Ultes, Lina Rojas-Barahona, Steve Young and Milica Gasic
+<br />
+<br />
 3. ["Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning"](https://arxiv.org/abs/1706.06210), SIGDIAL 2017
 <br />
 <br />
@@ -26,6 +38,8 @@ Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve You
 <b>Paweł Budzianowski</b>
 <br />
 <br />
+
+*equal contribution
 
 ## Collaborated Papers
 1. "PyDial: A Multi-domain Statistical Dialogue System Toolkit", ACL 2017 
