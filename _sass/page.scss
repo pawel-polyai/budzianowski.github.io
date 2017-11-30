@@ -421,7 +421,8 @@ $button-size: 1.5rem;
 
 
 .article-author-side-right {
-	display: none;
+        float: right;
+        display: none;
 	.bio-photo {
 		max-width: 110px;
 		@include rounded(150px);
