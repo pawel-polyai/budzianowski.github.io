@@ -17,7 +17,7 @@ Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 4. ["A Benchmarking Environment for Reinforcement Learning Based Task Oriented Dialogue Management"](https://arxiv.org/abs/1711.11023), Deep Reinforcement Learning Symposium, NIPS 2017.
 <br />
 <br />
-Inigo Casanueva &diams;, <b>Paweł Budzianowski</b> &#42;, Pei-Hao Su &#42;, Nikola Mrkšić, Tsung-Hsien Wen, Stefan Ultes, Lina Rojas-Barahona, Steve Young and Milica Gasic
+Inigo Casanueva&#42;, <b>Paweł Budzianowski&#42;</b>, Pei-Hao Su&#42;, Nikola Mrkšić, Tsung-Hsien Wen, Stefan Ultes, Lina Rojas-Barahona, Steve Young and Milica Gasic
 <br />
 <br />
 3. ["Sub-domain Modelling for Dialogue Management with Hierarchical Reinforcement Learning"](https://arxiv.org/abs/1706.06210), SIGDIAL 2017.
