@@ -460,6 +460,7 @@ $button-size: 1.5rem;
 		@include grid(12,1.5);
 		@include prefix(12,2);
 	}
+}
 /* Author module - mobile only */
 .article-author-bottom {
 	margin-bottom: 1em;
