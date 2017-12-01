@@ -42,7 +42,7 @@ Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gasic and Steve You
 *equal contribution
 
 ## Collaborated Papers
-1. "PyDial: A Multi-domain Statistical Dialogue System Toolkit", ACL 2017 
+1. ["PyDial: A Multi-domain Statistical Dialogue System Toolkit"](http://aclweb.org/anthology/P17-4013), ACL 2017 
 <br />
 <br />
 Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñigo Casanueva, <b>Paweł Budzianowski</b>, Nikola Mrkšić, Tsung-Hsien Wen, Milica Gasic and Steve Young
