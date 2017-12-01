@@ -8,7 +8,7 @@ comments: false
 ---
 
 ## Publications
-5. "Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation", Bayesian Deep Learning Workshop, NIPS 2017.
+5. ["Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation"](https://arxiv.org/abs/1711.11486), Bayesian Deep Learning Workshop, NIPS 2017.
 <br />
 <br />
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
