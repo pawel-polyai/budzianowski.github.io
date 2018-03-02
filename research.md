@@ -8,10 +8,16 @@ comments: false
 ---
 
 ## Publications
-6. "Benchmarking Uncertainty Estimates with \\Deep Reinforcement Learning for Dialogue Policy Optimisation", ICASSP 2018. 
+7. "Benchmarking Uncertainty Estimates with \\Deep Reinforcement Learning for Dialogue Policy Optimisation", ICASSP 2018. 
 <br />
 <br />
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
+<br />
+<br />
+6. ["Sample Efficient Deep Reinforcement Learning for Dialogue Systems with Large Action Spaces"](https://arxiv.org/abs/1802.03753), Preprint 2018. 
+<br />
+<br />
+Gellert Weisz, <b>Paweł Budzianowski</b>, Pei-Hao Su, Milica Gasic
 <br />
 <br />
 5. ["Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation"](https://arxiv.org/abs/1711.11486), Bayesian Deep Learning Workshop, NIPS 2017.
@@ -65,10 +71,6 @@ Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñ
 1. [Artificial Intelligence is Coming](https://matematyka.poznan.pl/artykul/sztuczna-inteligencja-nadchodzi-czyli-krotki-poradnik-jak-zbudowac-inteligentna-maszyne/#easy-footnote-3), Poznan Mathematical Foundation 2016
 2. [Kepler's laws](https://matematyka.poznan.pl/artykul/prawa-keplera/), co-author, Poznan Mathematical Foundation, 2014
 
-## Teaching
-1. Demonstrator for Reinforcement Learning, Departament of Engineering, University of Cambridge 2017
-2. Demonstrator for Statistical Dialogue Systems, Departament of Engineering, University of Cambridge 2017
-3. Introduction to programming language 'R', Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznań, 2014-2015
 
 ## Dissertations
 1. [Training Restricted Boltzmann Machines Using High-Temperature Expansion](https://github.com/budzianowski/DBN/blob/master/thesis/thesis.pdf), Master's Thesis, Engineering Department, University of Cambridge, first-class honours.

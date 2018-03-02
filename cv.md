@@ -14,6 +14,12 @@ The current (full) version of my CV can be found [here](https://github.com/budzi
 3. Adam Mickiewicz University in Poznań - BA and MA in mathematics, supervised by prof. Ryszard Doman
 4. Poznan University of Economics - BA in economics, supervised by dr. Jacek Wallusch
 
+## Teaching
+1. Demonstrator for Inference (3F8), Departament of Engineering, University of Cambridge 2018
+2. Demonstrator for Reinforcement Learning, Departament of Engineering, University of Cambridge 2017-2018
+3. Demonstrator for Statistical Dialogue Systems, Departament of Engineering, University of Cambridge 2017
+4. Introduction to programming language 'R', Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznań, 2014-2015
+
 ## Academic achievements
 1. Second place in [Data Science Game 2016](http://www.datasciencegame.com/press) - an international data science competition
 2. Winner of IV Polish Independent Championship in Data Analysis in 2014
