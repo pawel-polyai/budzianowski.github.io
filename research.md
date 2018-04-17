@@ -8,9 +8,10 @@ comments: false
 ---
 
 ## Publications
-7. "Benchmarking Uncertainty Estimates with \\Deep Reinforcement Learning for Dialogue Policy Optimisation", ICASSP 2018. 
+7. ["Benchmarking Uncertainty Estimates with \\Deep Reinforcement Learning for Dialogue Policy Optimisation"](https://arxiv.org/abs/1711.11486), ICASSP 2018. 
 <br />
 <br />
+Best Student Paper Award
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 <br />
 <br />
@@ -62,10 +63,11 @@ Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñ
 <br />
 
 ## Talks
-1. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
-2. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016 
-3. [Bayesian Optimization](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/bayOptMLG.pdf), Machine Learning Reading Group, Cambridge University, with [Brian Trippe](http://www.briantrippe.com/), 2016
-4. A copula-based multivariate analysis with R, Polish Academic R User Meeting, Poznań, 2015
+1. Challenges in deep reinforcement learning for dialogue management, Google, Mountain View, 2018 
+2. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
+3. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016 
+4. [Bayesian Optimization](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/bayOptMLG.pdf), Machine Learning Reading Group, Cambridge University, with [Brian Trippe](http://www.briantrippe.com/), 2016
+5. A copula-based multivariate analysis with R, Polish Academic R User Meeting, Poznań, 2015
 
 ## Website articles
 1. [Artificial Intelligence is Coming](https://matematyka.poznan.pl/artykul/sztuczna-inteligencja-nadchodzi-czyli-krotki-poradnik-jak-zbudowac-inteligentna-maszyne/#easy-footnote-3), Poznan Mathematical Foundation 2016
