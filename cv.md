@@ -21,7 +21,7 @@ The current (full) version of my CV can be found [here](https://github.com/budzi
 4. Introduction to programming language 'R', Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznań, 2014-2015
 
 ## Academic achievements
-1. Best Student Paper Award, ICASPP, 2018
+1. Best Student Paper Award, ICASSP, 2018
 2. Second place in [Data Science Game 2016](http://www.datasciencegame.com/press) - an international data science competition
 3. Winner of IV Polish Independent Championship in Data Analysis in 2014
 4. Winner in the Academic Economic Consensus in 2013 – national macroeconomic forecasting competition

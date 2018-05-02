@@ -8,10 +8,16 @@ comments: false
 ---
 
 ## Publications
+8. Large-scale Multi-Domain Belief Tracking with Knowledge Sharing, ACL 2018. 
+<br />
+<br />
+Osman Ramandan, <b>Paweł Budzianowski</b>, Milica Gasic
+<br />
+<br />
 7. ["Benchmarking Uncertainty Estimates with \\Deep Reinforcement Learning for Dialogue Policy Optimisation"](https://arxiv.org/abs/1711.11486), ICASSP 2018. 
 <br />
 <br />
-Best Student Paper Award
+Best Student Paper Award <br/>
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 <br />
 <br />
