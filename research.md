@@ -17,10 +17,9 @@ Osman Ramadan, <b>Paweł Budzianowski</b>, Milica Gasic
 7. ["Benchmarking Uncertainty Estimates with Deep Reinforcement Learning for Dialogue Policy Optimisation"](https://arxiv.org/abs/1711.11486), ICASSP 2018. 
 <br/>
 <br/>
-<b>Best Student Paper Award</b>, 1 of 10 out of 1442 accepted papers
-<br/>
 Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 <br />
+<b>Best Student Paper Award</b>, 1 of 10 out of 1442 accepted papers
 <br />
 6. ["Sample Efficient Deep Reinforcement Learning for Dialogue Systems with Large Action Spaces"](https://arxiv.org/abs/1802.03753), Preprint 2018. 
 <br />
