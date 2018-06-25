@@ -22,7 +22,7 @@ Christopher Tegho*, <b>Paweł Budzianowski*</b>, Milica Gasic
 <b>Best Student Paper Award</b>, 1 of 10 out of 1442 accepted papers
 <br />
 <br />
-6. ["Sample Efficient Deep Reinforcement Learning for Dialogue Systems with Large Action Spaces"](https://arxiv.org/abs/1802.03753), Preprint 2018. 
+6. ["Sample Efficient Deep Reinforcement Learning for Dialogue Systems with Large Action Spaces"](https://arxiv.org/abs/1802.03753), IEEE Transaction on Audio, Speech and Language Processing, 2018. 
 <br />
 <br />
 Gellert Weisz, <b>Paweł Budzianowski</b>, Pei-Hao Su, Milica Gasic

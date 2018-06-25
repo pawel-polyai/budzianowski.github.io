@@ -15,3 +15,7 @@ Currently, my primary focus is to apply hierarchical and efficient off-policy de
 Over last four years I have worked on Bayesian statistics, variational inference, multivariate time series and copulas.
 
 If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk.
+
+NEWS:
+
+We won best student paper award at ICASSP 2018 for working on uncertainty estimates in deepRL! [Paper](https://arxiv.org/abs/1711.11486)
