@@ -8,7 +8,7 @@ image:
 ---
 
 
-I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) at University of Cambridge, supervised by [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436) and [dr. Richard Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome), working on long-term conversational agents. I am passionate about everything that is related to mathematics, statistics, machine learning and artificial intelligence.
+I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) at University of Cambridge working on long-term conversational agents supervised by [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436). I am passionate about everything that is related to mathematics, statistics, machine learning and artificial intelligence.
 
 Currently, my primary focus is to apply hierarchical and efficient off-policy deep reinforcement learning methods to dialogue policy management.
 
