@@ -8,6 +8,12 @@ comments: false
 ---
 
 ## Publications
+8. ["Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing"](https://arxiv.org/abs/1807.06517), ACL 2018. 
+<br/>
+<br/>
+Osman Ramadan, <b>Paweł Budzianowski</b>, Milica Gasic
+<br />
+<br />
 7. ["Benchmarking Uncertainty Estimates with Deep Reinforcement Learning for Dialogue Policy Optimisation"](https://arxiv.org/abs/1711.11486), ICASSP 2018. 
 <br/>
 <br/>
