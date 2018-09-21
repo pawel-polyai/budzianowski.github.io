@@ -12,6 +12,7 @@ comments: false
 <br/>
 <br/>
 <b>Paweł Budzianowski</b>, Tsung-Hsien Wen, Bo-Hsiang Tseng, Inigo Casanueva, Stefan Ultes, Osman Ramadan, Milica Gasic
+<b>Best Resource Paper Award</b>, 1 of 4 out of 548 accepted papers
 <br />
 <br/>
 8. ["Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing"](https://arxiv.org/abs/1807.06517), ACL 2018. 
