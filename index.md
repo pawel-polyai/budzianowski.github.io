@@ -18,6 +18,6 @@ If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk.
 
 NEWS:
 
-Our paper with the largest multi-domain task-oriented dataset publicly available has won Best Resource Paper Award at EMNLP! The data and the paper will be out soon. 
+Our paper with the largest multi-domain task-oriented dataset publicly available has won the best resource paper award at EMNLP! The paper will be out soon. [data](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)
 
-We won best student paper award at ICASSP 2018 for working on uncertainty estimates in deepRL! [Paper](https://arxiv.org/abs/1711.11486)
+We won the best student paper award at ICASSP 2018 for working on uncertainty estimates in deepRL! [Paper](https://arxiv.org/abs/1711.11486)

@@ -9,11 +9,12 @@ comments: false
 The current (full) version of my CV can be found [here](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/cv.pdf).
 
 ## Academic achievements
-1. Best Student Paper Award, ICASSP, 2018
-2. Second place in [Data Science Game 2016](http://www.datasciencegame.com/press) - an international data science competition
-3. Winner of IV Polish Independent Championship in Data Analysis in 2014
-4. Winner in the Academic Economic Consensus in 2013 – national macroeconomic forecasting competition
-5. Founder and first president of [The Applied Mathematics and Computer Science Circle](http://mis.wmi.amu.edu.pl/) at Adam Mickiewicz University in Poznan in 2014
+1. Best Resource Paper Award, EMNLP, 2018
+2. Best Student Paper Award, ICASSP, 2018
+3. Second place in [Data Science Game 2016](http://www.datasciencegame.com/press) - an international data science competition
+4. Winner of IV Polish Independent Championship in Data Analysis in 2014
+5. Winner in the Academic Economic Consensus in 2013 – national macroeconomic forecasting competition
+6. Founder and first president of [The Applied Mathematics and Computer Science Circle](http://mis.wmi.amu.edu.pl/) at Adam Mickiewicz University in Poznan in 2014
 
 ## Honours and Awards
 1. Toshiba PhD Research Studentship
