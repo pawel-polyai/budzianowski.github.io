@@ -23,6 +23,17 @@ The current (full) version of my CV can be found [here](https://github.com/budzi
 4. Several Rector’s scholarships for achievements in education
 5. Hawks' Club Award
 
+
+## Talks
+1. Learning multi-domain dialogues, Apple, Cambridge, 2018
+2. [Deep reinforcement learning for conversational agents](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/drl_warsaw.pdf), Warsaw University, 2018
+3. Challenges in deep reinforcement learning for dialogue management, Google, Mountain View, 2018
+4. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
+5. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016
+6. [Bayesian Optimization](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/bayOptMLG.pdf), Machine Learning Reading Group, Cambridge University, with [Brian Trippe](http://www.briantrippe.com/), 2016
+7. A copula-based multivariate analysis with R, Polish Academic R User Meeting, Poznań, 2015
+
+
 ## Education
 1. University of Cambridge – PhD in Dialogue Systems, Machine Learning, supervised by dr. Milica Gasic
 2. University of Cambridge - MPhil in Machine Learning, Speech and Language Technology, supervised by dr. Richard Turner

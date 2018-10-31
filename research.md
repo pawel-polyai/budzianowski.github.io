@@ -77,13 +77,6 @@ Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñ
 <br />
 <br />
 
-## Talks
-1. [Deep reinforcement learning for conversational agents](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/drl_warsaw.pdf), Warsaw University, 2018
-2. Challenges in deep reinforcement learning for dialogue management, Google, Mountain View, 2018 
-3. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
-4. Hierarchical reinforcement learning, Toshiba Research, Cambridge, 2016 
-5. [Bayesian Optimization](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/bayOptMLG.pdf), Machine Learning Reading Group, Cambridge University, with [Brian Trippe](http://www.briantrippe.com/), 2016
-6. A copula-based multivariate analysis with R, Polish Academic R User Meeting, Poznań, 2015
 
 ## Website articles
 1. [Artificial Intelligence is Coming](https://matematyka.poznan.pl/artykul/sztuczna-inteligencja-nadchodzi-czyli-krotki-poradnik-jak-zbudowac-inteligentna-maszyne/#easy-footnote-3), Poznan Mathematical Foundation 2016
