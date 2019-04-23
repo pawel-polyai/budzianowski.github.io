@@ -17,6 +17,8 @@ Over last four years I have worked on Bayesian statistics, variational inference
 If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk.
 
 NEWS:
+I recently gave a couple of talks about recent progress on learning multi-domain dialogues with MultiWOZ including Apple, Facebook and Stanford. See also new challenge in [DSTC8](https://sites.google.com/dstc.community/dstc8/home) based on MultiWOZ.
+
 Along with the PolyAI crew we gave a tutorial on the Conversational AI at [PLinML](http://plinml.mimuw.edu.pl/) in Warsaw. Slides and code are [here](https://github.com/budzianowski/plml_convai)!
 
 Our paper with the largest multi-domain task-oriented dataset publicly available has won the best resource paper award at EMNLP! [[paper]](https://arxiv.org/abs/1810.00278) [[code]](https://github.com/budzianowski/multiwoz) [[data]](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)
