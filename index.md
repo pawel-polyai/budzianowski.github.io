@@ -8,7 +8,7 @@ image:
 ---
 
 
-I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) at University of Cambridge working on long-term conversational agents jointly supervised by [dr. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/). Over last two years I had a chance to work with [dr. Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning.html).
+I am a PhD candidate at the [Dialogue Systems Group](http://dialogue.mi.eng.cam.ac.uk/index.php/people/) at University of Cambridge working on long-term conversational agents jointly supervised by [dr. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/). Over last two years I had a chance to work with [dr. Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning.html).
 
 I am passionate about everything that is related to mathematics, statistics, machine learning and artificial intelligence.
 Prior to PhD, I was working on training deep belief networks using high-temperature expansion being supervised by [dr. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and advised by [Nilesh Tripuraneni](https://people.eecs.berkeley.edu/~nileshtrip/).
