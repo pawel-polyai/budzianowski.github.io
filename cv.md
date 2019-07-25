@@ -25,7 +25,7 @@ The current (full) version of my CV can be found [here](https://github.com/budzi
 
 
 ## Talks
-1. Learning multi-domain dialogues, Apple, Cambridge, 2018
+1. [Learning multi-domain dialogues](https://nlp.stanford.edu/seminar/details/pbudzianowski.pdf), Stanford University, Facebook (Palo Alto), Apple (Cambridge), 2019
 2. [Deep reinforcement learning for conversational agents](https://github.com/budzianowski/budzianowski.github.io/blob/master/data/drl_warsaw.pdf), Warsaw University, 2018
 3. Challenges in deep reinforcement learning for dialogue management, Google, Mountain View, 2018
 4. Towards hierarchical and efficient policy management, Reinforcement Learning Summer School, University of Montreal, 2017
