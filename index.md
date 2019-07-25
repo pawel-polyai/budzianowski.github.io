@@ -8,13 +8,12 @@ image:
 ---
 
 
-I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) at University of Cambridge working on long-term conversational agents jointly supervised by [dr. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/). Over last two years I had a chance to work with [dr. Milica Gašić](https://mi.eng.cam.ac.uk/~mg436).
+I am a PhD candidate at the [Dialogue Systems Group](http://mi.eng.cam.ac.uk/research/dialogue/) at University of Cambridge working on long-term conversational agents jointly supervised by [dr. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and [prof. Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/). Over last two years I had a chance to work with [dr. Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning.html).
 
-Prior to PhD, I was working on training deep belief networks using high-temperature expansion being supervised by dr. Rich Turner and advised by [Nilesh Tripuraneni](https://people.eecs.berkeley.edu/~nileshtrip/). I am passionate about everything that is related to mathematics, statistics, machine learning and artificial intelligence.
+I am passionate about everything that is related to mathematics, statistics, machine learning and artificial intelligence.
+Prior to PhD, I was working on training deep belief networks using high-temperature expansion being supervised by [dr. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and advised by [Nilesh Tripuraneni](https://people.eecs.berkeley.edu/~nileshtrip/).
 
-Over last four years I have worked on Bayesian statistics, variational inference, multivariate time series and copulas.
-
-If you have any questions feel free to contact me - my mail is pfb30@cam.ac.uk.
+If you have any questions feel free to contact me - my mail is pfb30 at cam.ac.uk.
 
 NEWS:
 
@@ -24,4 +23,4 @@ Along with the PolyAI crew we gave a tutorial on the Conversational AI at [PLinM
 
 Our paper with the largest multi-domain task-oriented dataset publicly available has won the best resource paper award at EMNLP! [[paper]](https://arxiv.org/abs/1810.00278) [[code]](https://github.com/budzianowski/multiwoz) [[data]](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)
 
-We won the best student paper award at ICASSP 2018 for working on uncertainty estimates in deepRL! [[paper]](https://arxiv.org/abs/1711.11486), [[code]](https://pydial.org)
+We won the best student paper award at ICASSP 2018 for working on uncertainty estimates in DeepRL! [[paper]](https://arxiv.org/abs/1711.11486), [[code]](https://pydial.org)
