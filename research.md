@@ -8,7 +8,7 @@ comments: false
 ---
 
 ## Publications
-10. [Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1907.05774.pdf)
+10. [Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1907.05774.pdf), In submission, 2019.
 <br/>
 <br/>
 <b>Paweł Budzianowski</b>, Ivan Vulić
