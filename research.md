@@ -8,11 +8,17 @@ comments: false
 ---
 
 ## Publications
-10. [Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1907.05774.pdf), In submission, 2019.
+11. [Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1907.05774.pdf), In submission, 2019.
 <br/>
 <br/>
 <b>Paweł Budzianowski</b>, Ivan Vulić
 <br />
+<br/>
+10. Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling, EMNLP, 2019.
+<br/>
+<br/>
+Bo-Hsiang Tseng*, Marek Rei*, <b>Paweł Budzianowski*</b>, Richard Turner, Bill Byrne, Anna Korhonen
+<br/>
 <br/>
 9. [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278), EMNLP 2018. [[data]](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/) [[code]](https://github.com/budzianowski/multiwoz)
 <br/>
@@ -76,13 +82,24 @@ Pei-Hao Su, <b>Paweł Budzianowski</b>, Stefan Ultes, Milica Gašić and Steve Y
 *equal contribution
 
 ## Collaborated Papers
+3. ["Training Neural Response Selection for Task-Oriented Dialogue Systems"](https://arxiv.org/abs/1906.01543), ACL 2019 
+<br />
+<br />
+Matthew Henderson, Ivan Vulić, Daniela Gerz, Iñigo Casanueva, <b>Paweł Budzianowski</b>, Sam Coope, Georgios Spithourakis, Tsung-Hsien Wen, Nikola Mrkšić, Pei-Hao Su
+<br />
+<br />
+2. ["A Repository of Conversational Datasets"](https://arxiv.org/abs/1904.06472), NLP for ConvAI Workshop, ACL 2019
+<br />
+<br />
+Matthew Henderson, <b>Paweł Budzianowski</b>, Iñigo Casanueva, Sam Coope, Daniela Gerz, Girish Kumar, Nikola Mrkšić, Georgios Spithourakis, Pei-Hao Su, Ivan Vulić, Tsung-Hsien Wen
+<br />
+<br />
 1. ["PyDial: A Multi-domain Statistical Dialogue System Toolkit"](http://aclweb.org/anthology/P17-4013), ACL 2017 
 <br />
 <br />
 Stefan Ultes, Lina M. Rojas Barahona, Pei-Hao Su, David Vandyke, Dongho Kim, Iñigo Casanueva, <b>Paweł Budzianowski</b>, Nikola Mrkšić, Tsung-Hsien Wen, Milica Gasic and Steve Young
 <br />
 <br />
-
 
 ## Website articles
 1. [Artificial Intelligence is Coming](https://matematyka.poznan.pl/artykul/sztuczna-inteligencja-nadchodzi-czyli-krotki-poradnik-jak-zbudowac-inteligentna-maszyne/#easy-footnote-3), Poznan Mathematical Foundation 2016
