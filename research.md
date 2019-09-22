@@ -8,7 +8,7 @@ comments: false
 ---
 
 ## Publications
-11. [Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1907.05774.pdf), In submission, 2019.
+11. [Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems](https://arxiv.org/pdf/1907.05774.pdf), The 3rd Workshop on Neural Generation and Translation, EMNLP, 2019.
 <br/>
 <br/>
 <b>Paweł Budzianowski</b>, Ivan Vulić
@@ -17,7 +17,7 @@ comments: false
 10. Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling, EMNLP, 2019.
 <br/>
 <br/>
-Bo-Hsiang Tseng*, Marek Rei*, <b>Paweł Budzianowski*</b>, Richard Turner, Bill Byrne, Anna Korhonen
+Bo-Hsiang Tseng, Marek Rei, <b>Paweł Budzianowski</b>, Richard Turner, Bill Byrne, Anna Korhonen
 <br />
 <br />
 9. [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278), EMNLP 2018. [[data]](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/) [[code]](https://github.com/budzianowski/multiwoz)
