@@ -15,6 +15,7 @@ Prior to PhD, I was working on training deep belief networks using high-temperat
 If you have any questions feel free to contact me - my mail is pfb30 at cam.ac.uk.
 
 NEWS:
+The slides from the Conversational AI tutorial at EMNLP'19 are [here](https://www.polyai.com/emnlp19/).
 
 I recently gave a couple of talks about recent progress in learning multi-domain dialogues with MultiWOZ including Apple, Facebook and Stanford. See also a new challenge in [DSTC8](https://sites.google.com/dstc.community/dstc8/home) based on MultiWOZ.
 
