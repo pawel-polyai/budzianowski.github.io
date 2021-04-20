@@ -13,7 +13,7 @@ I did my PhD in [Dialogue Systems Group](http://dialogue.mi.eng.cam.ac.uk/index.
 
 Prior to that, I was working on training deep belief networks using high-temperature expansion being supervised by [prof. Rich Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome) and advised by [Nilesh Tripuraneni](https://people.eecs.berkeley.edu/~nileshtrip/). For my bachelor, I graduated in mathematics from [Adam Mickiewicz University](https://en.wikipedia.org/wiki/Adam_Mickiewicz_University_in_Pozna%C5%84).
 
-If you have any questions feel free to contact me - my mail is pfb30 at cam.ac.uk.
+If you have any questions feel free to contact me - my mail is budzianowski at gmail dot com.
 
 **NEWS**:
 
